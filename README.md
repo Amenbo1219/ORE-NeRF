@@ -2,6 +2,8 @@
 
 This is the repository that contains source code for the [ORE-NeRF website](https://amenbo1219.github.io/ore-nerf/).
 
+Code is ./code
+
 If you find Nerfies useful for your work please cite:
 ```
 @article{kaito2026orenerf,
