@@ -1,13 +1,13 @@
 # ORE-NeRF: Omni-directional Ray Emission based Neural Radiance Fields
 
-This is the repository that contains source code for the [ORE-NeRF website](https://amenbo1219.github.io/ore-nerf/).
+This is the repository that contains source code for the [ORE-NeRF website](https://amenbo1219.github.io/ORE-NeRF/).
 
 Code is ./code
 
 If you find Nerfies useful for your work please cite:
 ```
 @article{kaito2026orenerf,
-  author    = {Kaito HOUJHO and Terumasa AOKI},
+  author    = {Kaito HOUJHO Tomohiro YUGUCHI and Terumasa AOKI},
   title     = {ORE-NeRF: Omni-directional Ray Emission based Neural Radiance Fields},
   journal   = {arXiv preprint},
   year      = {2026},
