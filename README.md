@@ -7,7 +7,7 @@ Code is ./code
 If you find Nerfies useful for your work please cite:
 ```
 @article{kaito2026orenerf,
-  author    = {Kaito HOUJHO Tomohiro YUGUCHI and Terumasa AOKI},
+  author    = {Kaito HOUJHO, Tomohiro YUGUCHI and Terumasa AOKI},
   title     = {ORE-NeRF: Omni-directional Ray Emission based Neural Radiance Fields},
   journal   = {arXiv preprint},
   year      = {2026},
